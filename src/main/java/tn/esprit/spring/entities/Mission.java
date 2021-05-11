@@ -16,7 +16,7 @@ public class Mission implements Serializable {
 	private static final long serialVersionUID = -5369734855993305723L;
 
 	// Auto Increment 
-	//git status
+	//test de git avec branch marwa
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int id;
